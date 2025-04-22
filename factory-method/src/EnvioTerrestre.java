@@ -1,0 +1,6 @@
+public class EnvioTerrestre implements Envio {
+    @Override
+    public String enviar() {
+        return "Envío realizado por vía terrestre.";
+    }
+}

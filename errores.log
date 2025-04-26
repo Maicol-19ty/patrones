@@ -1,0 +1,2 @@
+[2025-04-25 23:03:16] ERROR: Error de cálculo: / by zero
+[2025-04-25 23:03:16] ERROR: Error de puntero nulo: Cannot invoke "String.length()" because "texto" is null
